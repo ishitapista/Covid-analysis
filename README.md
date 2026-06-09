@@ -1,7 +1,5 @@
 # COVID-19 Analysis and Visualization using Plotly Express
 
-This project is inspired by the [GeeksforGeeks tutorial](https://www.geeksforgeeks.org/data-visualization/covid-19-analysis-and-visualization-using-plotly-express/) on COVID-19 data visualization.
-
 ## Project Structure
 - `data/`: Contains the datasets.
     - `covid.csv`: Country-aggregated data.
